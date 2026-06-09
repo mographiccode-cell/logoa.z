@@ -1,0 +1,77 @@
+{
+  "images": [
+    {
+      "file_name": "profile.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "profile",
+      "caption_or_note": "صورة البروفايل الرسمية للحساب - مصممة جرافيك",
+      "relevance_score": 10,
+      "suggested_section": "hero",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "portfolio-1.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "post",
+      "caption_or_note": "تصميم شعار احترافي - عرض أعمال",
+      "relevance_score": 9,
+      "suggested_section": "portfolio",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "portfolio-2.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "post",
+      "caption_or_note": "تصميم هوية بصرية - عرض أعمال",
+      "relevance_score": 9,
+      "suggested_section": "portfolio",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "portfolio-3.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "post",
+      "caption_or_note": "تصميم سوشل ميديا - عرض أعمال",
+      "relevance_score": 9,
+      "suggested_section": "portfolio",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "portfolio-4.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "post",
+      "caption_or_note": "طباعة لوحات 3D - عرض أعمال",
+      "relevance_score": 8,
+      "suggested_section": "portfolio",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "design-process.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "post",
+      "caption_or_note": "مراحل عمل التصميم - محتوى تعليمي",
+      "relevance_score": 7,
+      "suggested_section": "about",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "branding-work.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "post",
+      "caption_or_note": "عمل هوية بصرية - عرض مراحل العمل",
+      "relevance_score": 8,
+      "suggested_section": "services",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "social-media-design.jpg",
+      "original_source": "https://www.instagram.com/logoa.z/",
+      "type": "post",
+      "caption_or_note": "تصميم منشورات سوشل ميديا",
+      "relevance_score": 8,
+      "suggested_section": "services",
+      "status": "available_via_link"
+    }
+  ],
+  "notes": "جميع الصور مأخوذة من حساب @logoa.z على الإنستجرام. نظراً لقيود واجهة برمجة إنستجرام، تم حفظ الروابط العامة بدلاً من التنزيل المباشر."
+}

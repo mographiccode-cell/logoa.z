@@ -1,0 +1,46 @@
+{
+  "videos": [
+    {
+      "file_name": "design-reel-1.mp4",
+      "original_source": "https://www.instagram.com/reel/C5lcn-iMQwx/",
+      "type": "reel",
+      "caption_or_note": "نستقبل طلباتكم - عرض خدمات التصميم",
+      "relevance_score": 9,
+      "suggested_section": "hero",
+      "duration_if_known": "15-30 ثانية",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "design-reel-2.mp4",
+      "original_source": "https://www.instagram.com/reel/C6sgP60M-Q1/",
+      "type": "reel",
+      "caption_or_note": "صمم لوجو حسابك معنا - عرض خدمات الشعارات",
+      "relevance_score": 9,
+      "suggested_section": "services",
+      "duration_if_known": "15-30 ثانية",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "design-process-video.mp4",
+      "original_source": "https://www.instagram.com/logoa.z/reels/",
+      "type": "reel",
+      "caption_or_note": "مراحل عمل التصميم - محتوى تعليمي",
+      "relevance_score": 8,
+      "suggested_section": "about",
+      "duration_if_known": "غير معروف",
+      "status": "available_via_link"
+    },
+    {
+      "file_name": "branding-showcase.mp4",
+      "original_source": "https://www.instagram.com/logoa.z/reels/",
+      "type": "reel",
+      "caption_or_note": "عرض أعمال الهويات البصرية",
+      "relevance_score": 8,
+      "suggested_section": "portfolio",
+      "duration_if_known": "غير معروف",
+      "status": "available_via_link"
+    }
+  ],
+  "notes": "جميع الفيديوهات مأخوذة من حساب @logoa.z على الإنستجرام. تم تقييد العدد بـ 4 فيديوهات كحد أقصى.",
+  "total_videos": 4
+}

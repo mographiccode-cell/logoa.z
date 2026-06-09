@@ -1,0 +1,27 @@
+{
+  "username": "logoa.z",
+  "display_name": "مصممة جرافيك",
+  "logo_source": "profile",
+  "logo_type": "inferred",
+  "logo_description": "الشعار مُستنتج من اسم الحساب وصورته الرمزية - تصميم نصي بسيط يحمل اسم logoa.z",
+  "brand_colors": {
+    "primary_color": "#1a1a2e",
+    "secondary_color": "#e94560",
+    "accent_color": "#f5f5f5",
+    "background_color": "#ffffff",
+    "text_color": "#1a1a2e",
+    "gradient_start": "#1a1a2e",
+    "gradient_end": "#e94560"
+  },
+  "typography_direction": "RTL",
+  "primary_font": "Tajawal",
+  "secondary_font": "Cairo",
+  "visual_style": "احترافية حديثة",
+  "tone_of_voice": "احترافي وودود وإبداعي",
+  "imagery_style": "صور تصميمات جرافيك، أعمال هوية بصرية، لوحات ثلاثية الأبعاد، لقطات من مراحل العمل الإبداعي",
+  "layout_notes": "تصميم حديث ونظيف مع لمسات إبداعية، استخدام مساحات سلبية، تدرجات لونية أنيقة، عمق بصري خفيف",
+  "identity_confidence": "عالية - مبنية على معلومات الحساب الفعلية",
+  "identity_notes": "الحساب يعكس هوية إبداعية احترافية مع تركيز على التصميم الجرافيك. الألوان الداكنة مع اللون الوردي/الأحمر تعكس الطابع الفني العصري.",
+  "design_mood": "فني، حديث، إبداعي، احترافي",
+  "color_psychology": "الألوان الداكنة تعكس الفخامة والاحترافية، اللون الأحمر/الوردي يعكس الإبداع والحيوية"
+}

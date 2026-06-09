@@ -1,0 +1,92 @@
+{
+  "account_info": {
+    "username": "logoa.z",
+    "display_name": "مصممة جرافيك",
+    "instagram_url": "https://www.instagram.com/logoa.z/",
+    "bio": "Owner of: @_logoa.z | نُبدع من أجلك 👌🏻💡|. | تصميم • تسويق • إدارة حسابات•طباعة لوحات 3D |",
+    "followers": 6813,
+    "following": 140,
+    "posts_count": 199,
+    "secondary_account": "@_logoa.z",
+    "is_verified": false,
+    "is_private": false
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "تصميم شعارات",
+      "description": "تصميم شعارات احترافية مميزة للعلامات التجارية",
+      "icon": "palette"
+    },
+    {
+      "id": 2,
+      "name": "تصميم هويات بصرية",
+      "description": "بناء هويات بصرية متكاملة تعكس رؤية العلامة التجارية",
+      "icon": "identity"
+    },
+    {
+      "id": 3,
+      "name": "إدارة حسابات",
+      "description": "إدارة احترافية لحسابات التواصل الاجتماعي",
+      "icon": "settings"
+    },
+    {
+      "id": 4,
+      "name": "التسويق الرقمي",
+      "description": "استراتيجيات تسويقية فعّالة للوصول للجمهور المستهدف",
+      "icon": "trending"
+    },
+    {
+      "id": 5,
+      "name": "طباعة لوحات 3D",
+      "description": "طباعة لوحات ثلاثية الأبعاد بأعلى جودة",
+      "icon": "layers"
+    }
+  ],
+  "contact_methods": [
+    {
+      "type": "instagram",
+      "label": "-instagram",
+      "url": "https://www.instagram.com/logoa.z/",
+      "is_primary": true
+    },
+    {
+      "type": "instagram_secondary",
+      "label": "الحساب الثانوي",
+      "url": "https://www.instagram.com/_logoa.z/",
+      "is_primary": false
+    },
+    {
+      "type": "dm",
+      "label": "الرسائل الخاصة",
+      "url": "https://www.instagram.com/logoa.z/",
+      "is_primary": true
+    }
+  ],
+  "content_themes": [
+    "تصميم شعارات",
+    "هويات بصرية",
+    "نصائح تسويقية",
+    "عرض أعمال",
+    "عملية التصميم",
+    "طباعة ثلاثية الأبعاد"
+  ],
+  "hashtags": [
+    "تصميم",
+    "جرافيك",
+    "لوجو",
+    "تسويق",
+    "تسويق_انستغرام",
+    "تسويق_الكتروني",
+    "تسويق_رقمي",
+    "تسويق_اونلاين",
+    "branding",
+    "beingcreative",
+    "brandinspiration",
+    "brandidentity",
+    "مصمم_جرافيك",
+    "هوية_بصرية",
+    "طباعة_ثلاثية_الأبعاد"
+  ],
+  "last_updated": "2026-06-09"
+}
