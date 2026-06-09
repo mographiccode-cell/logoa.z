@@ -7,7 +7,8 @@
       "caption_or_note": "صورة البروفايل الرسمية للحساب - مصممة جرافيك",
       "relevance_score": 10,
       "suggested_section": "hero",
-      "status": "available_via_link"
+      "status": "downloaded",
+      "local_path": "images/profile/profile.jpg"
     },
     {
       "file_name": "portfolio-1.jpg",
@@ -73,5 +74,7 @@
       "status": "available_via_link"
     }
   ],
-  "notes": "جميع الصور مأخوذة من حساب @logoa.z على الإنستجرام. نظراً لقيود واجهة برمجة إنستجرام، تم حفظ الروابط العامة بدلاً من التنزيل المباشر."
+  "notes": "تم تنزيل صورة البروفايل من حساب @logoa.z على الإنستجرام. باقي الصور متوفرة عبر الروابط العامة للحساب.",
+  "downloaded_count": 1,
+  "available_via_link_count": 7
 }
