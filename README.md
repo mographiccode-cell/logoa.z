@@ -29,7 +29,7 @@
 3. سيتم النشر تلقائياً عبر GitHub Pages
 
 ## رابط GitHub Pages
-[https://logoa.z.github.io/logoa.z/](https://logoa.z.github.io/logoa.z/)
+[https://mographiccode-cell.github.io/logoa.z/](https://mographiccode-cell.github.io/logoa.z/)
 
 ## هيكل المشروع
 ```
